@@ -12,20 +12,11 @@
 **[HS Image Classification](https://github.com/751K/HS_Image_Classification)**  
 高光谱图像分类研究 — CNN / Transformer / Mamba 多种模型实现
 
-**[easy_slam](https://github.com/751K/easy_slam)**  
-SLAM 课程练习代码
-
 **[flexible-electronic](https://github.com/751K/flexible-electronic)**  
 Python 电子工程相关工具
 
-<details>
-<summary><samp>更多</samp></summary>
-
-- [eindhoven_bsn_check](https://github.com/751K/eindhoven_bsn_check) — BSN 号码校验工具
-- [EIE-Knowledge-Base](https://github.com/751K/EIE-Knowledge-Base) — 电子信息工程学习笔记
-- [Intelligence_Arch](https://github.com/751K/Intelligence_Arch) — 智能架构
-
-</details>
+**[EIE-Knowledge-Base](https://github.com/751K/EIE-Knowledge-Base)**  
+电子信息工程学习笔记
 
 ---
 
