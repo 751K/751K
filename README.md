@@ -6,9 +6,26 @@
 
 ### 项目
 
-**[Holland2Stay Monitor](https://github.com/751K/holland2stay-monitor)** — 多平台房源监控，实时 iMessage / Telegram / WhatsApp 通知，支持多人订阅、自动抢房，Web + iOS + Android 面板
+**[Holland2Stay Monitor](https://github.com/751K/holland2stay-monitor)** ⭐  
+多平台房源监控系统 — GraphQL 抓取、SQLite 存储、iMessage / Telegram / WhatsApp 实时通知、多人订阅、自动抢房、Web + iOS + Android 面板
 
-**[HS Image Classification](https://github.com/751K/HS_Image_Classification)** — 高光谱图像分类，涵盖 CNN / Transformer / Mamba
+**[HS Image Classification](https://github.com/751K/HS_Image_Classification)**  
+高光谱图像分类研究 — CNN / Transformer / Mamba 多种模型实现
+
+**[easy_slam](https://github.com/751K/easy_slam)**  
+SLAM 课程练习代码
+
+**[flexible-electronic](https://github.com/751K/flexible-electronic)**  
+Python 电子工程相关工具
+
+<details>
+<summary><samp>更多</samp></summary>
+
+- [eindhoven_bsn_check](https://github.com/751K/eindhoven_bsn_check) — BSN 号码校验工具
+- [EIE-Knowledge-Base](https://github.com/751K/EIE-Knowledge-Base) — 电子信息工程学习笔记
+- [Intelligence_Arch](https://github.com/751K/Intelligence_Arch) — 智能架构
+
+</details>
 
 ---
 
@@ -18,6 +35,10 @@
 ![Swift](https://img.shields.io/badge/Swift-333?style=flat&logo=swift)
 ![Kotlin](https://img.shields.io/badge/Kotlin-333?style=flat&logo=kotlin)
 ![SQLite](https://img.shields.io/badge/SQLite-333?style=flat&logo=sqlite)
+![GraphQL](https://img.shields.io/badge/GraphQL-333?style=flat&logo=graphql)
+![PyTorch](https://img.shields.io/badge/PyTorch-333?style=flat&logo=pytorch)
+![Docker](https://img.shields.io/badge/Docker-333?style=flat&logo=docker)
+![macOS](https://img.shields.io/badge/macOS-333?style=flat&logo=apple)
 
 ---
 
@@ -27,5 +48,9 @@
 </p>
 
 <p align="center">
-  <samp>—</samp>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=751K&theme=graywhite&hide_border=true">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=751K&style=flat-square&color=999">
 </p>
