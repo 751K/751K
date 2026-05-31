@@ -2,6 +2,12 @@
   <samp>Hi, I'm <b>Kong</b> · Python Developer · Netherlands</samp>
 </p>
 
+<p align="center">
+  <a href="https://github.com/sponsors/751K">
+    <img src="https://img.shields.io/badge/Sponsor-333?style=flat&logo=githubsponsors&logoColor=db61a2">
+  </a>
+</p>
+
 ---
 
 ### Projects
