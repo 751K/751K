@@ -39,11 +39,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=751K&theme=graywhite&hide_border=true">
+  <img src="https://streak-stats.demolab.com/?user=751K&theme=graywhite&hide_border=true">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=751K&theme=minimal&hide_border=true&area=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=751K&theme=github&hide_border=true&area=true">
 </p>
 
 <p align="center">
