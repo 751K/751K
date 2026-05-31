@@ -13,7 +13,7 @@
 高光谱图像分类研究 — CNN / Transformer / Mamba 多种模型实现
 
 **[flexible-electronic](https://github.com/751K/flexible-electronic)**  
-Python 电子工程相关工具
+使用 Python 实现 Virtuoso 电路仿真
 
 **[EIE-Knowledge-Base](https://github.com/751K/EIE-Knowledge-Base)**  
 电子信息工程学习笔记
