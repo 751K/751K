@@ -4,23 +4,23 @@
 
 ---
 
-### 项目
+### Projects
 
 **[Holland2Stay Monitor](https://github.com/751K/holland2stay-monitor)** ⭐  
-多平台房源监控系统 — GraphQL 抓取、SQLite 存储、iMessage / Telegram / WhatsApp 实时通知、多人订阅、自动抢房、Web + iOS + Android 面板
+Multi-platform rental monitor — GraphQL scraping, SQLite storage, iMessage / Telegram / WhatsApp real-time alerts, multi-user support, auto-booking, Web + iOS + Android dashboards
 
 **[HS Image Classification](https://github.com/751K/HS_Image_Classification)**  
-高光谱图像分类研究 — CNN / Transformer / Mamba 多种模型实现
+Hyperspectral image classification — CNN / Transformer / Mamba implementations
 
 **[flexible-electronic](https://github.com/751K/flexible-electronic)**  
-使用 Python 实现 Virtuoso 电路仿真
+Virtuoso circuit simulation with Python
 
 **[EIE-Knowledge-Base](https://github.com/751K/EIE-Knowledge-Base)**  
-电子信息工程学习笔记
+Electronic Information Engineering study notes
 
 ---
 
-### 技术栈
+### Stack
 
 ![Python](https://img.shields.io/badge/Python-333?style=flat&logo=python)
 ![Swift](https://img.shields.io/badge/Swift-333?style=flat&logo=swift)
