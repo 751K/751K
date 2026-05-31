@@ -17,7 +17,6 @@
 ![Python](https://img.shields.io/badge/Python-333?style=flat&logo=python)
 ![Swift](https://img.shields.io/badge/Swift-333?style=flat&logo=swift)
 ![Kotlin](https://img.shields.io/badge/Kotlin-333?style=flat&logo=kotlin)
-![CUDA](https://img.shields.io/badge/CUDA-333?style=flat&logo=nvidia)
 ![SQLite](https://img.shields.io/badge/SQLite-333?style=flat&logo=sqlite)
 
 ---
