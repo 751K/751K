@@ -43,5 +43,9 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=751K&theme=minimal&hide_border=true&area=true">
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=751K&style=flat-square&color=999">
 </p>
