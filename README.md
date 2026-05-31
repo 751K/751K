@@ -8,8 +8,6 @@
 
 **[Holland2Stay Monitor](https://github.com/751K/holland2stay-monitor)** — 多平台房源监控，实时 iMessage / Telegram / WhatsApp 通知，支持多人订阅、自动抢房，Web + iOS + Android 面板
 
-**[WeChatMsg](https://github.com/751K/WeChatMsg)** — 微信聊天记录提取，导出 HTML / Word / Excel，年度报告生成，个人 AI 聊天助手训练
-
 **[HS Image Classification](https://github.com/751K/HS_Image_Classification)** — 高光谱图像分类，涵盖 CNN / Transformer / Mamba
 
 ---
