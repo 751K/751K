@@ -18,8 +18,8 @@ Multi-platform rental monitor — GraphQL scraping, SQLite storage, iMessage / T
 **[HS Image Classification](https://github.com/751K/HS_Image_Classification)**  
 Hyperspectral image classification — CNN / Transformer / Mamba implementations
 
-**[flexible-electronic](https://github.com/751K/flexible-electronic)**  
-Virtuoso circuit simulation with Python
+**[Circuit Optimization Lab](https://github.com/751K/circuit-optimization-lab)**  
+Local circuit modeling and optimization framework for fast analog design-space exploration beyond exhaustive Cadence / Spectre sweeps
 
 **[EIE-Knowledge-Base](https://github.com/751K/EIE-Knowledge-Base)**  
 Electronic Information Engineering study notes
