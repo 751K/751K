@@ -40,8 +40,8 @@ Electronic Information Engineering study notes
 ---
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=751K&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=751K&layout=compact&theme=graywhite&hide_border=true&hide=jupyter%20notebook&langs_count=6">
+  <img height="150" src="https://github-stats-extended.vercel.app/api?username=751K&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true">
+  <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=751K&layout=compact&theme=graywhite&hide_border=true&hide=jupyter%20notebook&langs_count=6">
 </p>
 
 <p align="center">
