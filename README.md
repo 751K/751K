@@ -1,5 +1,5 @@
 <p align="center">
-  <samp>Hi, I'm <b>Kong</b> · Python Developer · Netherlands</samp>
+  <samp>Hi, I'm <b>Kong</b> · Electrical Engineering MSc student at TU/e · Netherlands</samp>
 </p>
 
 <p align="center">
@@ -10,19 +10,25 @@
 
 ---
 
-### Projects
+### Selected Projects
 
-**[Holland2Stay Monitor](https://github.com/751K/holland2stay-monitor)** ⭐  
-Multi-platform rental monitor — GraphQL scraping, SQLite storage, iMessage / Telegram / WhatsApp real-time alerts, multi-user support, auto-booking, Web + iOS + Android dashboards
+[**Apple M6 Neural Engine Study**](https://github.com/751K/Apple-Neural-Engine-Microarchitecture-Study-M6)  
+An empirical study of Apple M6 ANE microarchitecture using compiled models, execution traces, and power measurements — with report, raw data, tools, and figures.
 
-**[HS Image Classification](https://github.com/751K/HS_Image_Classification)**  
-Hyperspectral image classification — CNN / Transformer / Mamba implementations
+[**Flatradar**](https://github.com/751K/Flatradar) ⭐  
+Self-hosted Dutch rental monitor covering major housing providers, with real-time alerts across Telegram, email, WhatsApp, and iMessage.
 
-**[Circuit Optimization Lab](https://github.com/751K/circuit-optimization-lab)**  
-Local circuit modeling and optimization framework for fast analog design-space exploration beyond exhaustive Cadence / Spectre sweeps
+[**Sony Look Bridge**](https://github.com/751K/sony-look-bridge) ⭐  
+Sony Creative Looks across photo and video workflows: profiles for Capture One, Lightroom / Camera Raw, and DxO PhotoLab, plus S-Log3 LUTs.
 
-**[EIE-Knowledge-Base](https://github.com/751K/EIE-Knowledge-Base)**  
-Electronic Information Engineering study notes
+[**Sony ARW Decoder**](https://github.com/751K/sony-arw-decoder)  
+Standalone Sony RAW image decoder with NumPy, Rust, and Metal backends.
+
+[**MiniDiT**](https://github.com/751K/MiniDiT)  
+A macOS camera-media ingest tool for importing, verifying, and backing up photo and video files before handing them off to editing apps.
+
+[**Circuit Optimization Lab**](https://github.com/751K/circuit-optimization-lab)  
+Local circuit modeling and optimization framework for faster analog design-space exploration.
 
 ---
 
@@ -31,6 +37,7 @@ Electronic Information Engineering study notes
 ![Python](https://img.shields.io/badge/Python-333?style=flat&logo=python)
 ![Swift](https://img.shields.io/badge/Swift-333?style=flat&logo=swift)
 ![Kotlin](https://img.shields.io/badge/Kotlin-333?style=flat&logo=kotlin)
+![Rust](https://img.shields.io/badge/Rust-333?style=flat&logo=rust)
 ![SQLite](https://img.shields.io/badge/SQLite-333?style=flat&logo=sqlite)
 ![GraphQL](https://img.shields.io/badge/GraphQL-333?style=flat&logo=graphql)
 ![PyTorch](https://img.shields.io/badge/PyTorch-333?style=flat&logo=pytorch)
